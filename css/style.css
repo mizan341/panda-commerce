@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+}
+
+.container{
+margin-bottom: 80px;
+}
+.margin-top-div{
+    margin-top: 130px;
+}
+.carousel-inner{
+    border-radius: 8px;
+    background-color: #FCEAE8;
+}
+.carousel-img{
+    width: 100%;
+    padding: 40px 40px;
+}
+h2{
+    color: #FF3784;
+}
+.d-flex{
+    padding-left: 90px;
+}
+.button-buy{
+    padding: 10px 20px;
+    border: 1px solid transparent;
+    width: 108px;
+    border-radius: 6px;
+    background-color: #FF3784;
+    color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.cat1, 
+.cat2, 
+.cat3{
+    padding: 20px 20px 20px 20px;
+    text-transform: capitalize;
+    color: white;
+    border-radius: 5px;
+}
+.cat-img {
+    width: 150px;
+}
+.cat1{
+    background-color: #FFA500;
+    
+}
+.cat2{
+    background-color: #DA70D6;
+}
+.cat3{
+    background-color: #0000FF;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px gray;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+h3, h4{
+    color: tomato;
+    text-transform: capitalize;
+}
+.submit-div{
+    min-height: 400px;
+    background-color: #FCEAE8;
+    border-radius: 5px;
+}
+.input-div{
+    margin: 20px 30px 20px -10px;
+}
+h6{
+    font-size: 22px;
+    text-transform: capitalize;
+}
+.form-control{
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px 10px 10px 0px;
+    font-size: 20px;
+    width: 350px;
+    }
+    footer{
+        text-align: center;
+        color: gray;
+    }
